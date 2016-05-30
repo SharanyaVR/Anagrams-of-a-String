@@ -1,2 +1,2 @@
-# Natural-Language-Processing-Experiments
-Programming Implementations of techniques and algorithms related to Natural Language Processing
+# Anagrams of a String
+Python Program to find anagrams of a string
